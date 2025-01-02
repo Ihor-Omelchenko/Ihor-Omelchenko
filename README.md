@@ -40,16 +40,12 @@ I have a foundational understanding of architectural patterns and strive to cont
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+## 📊 GitHub Stats & Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ihor-Omelchenko&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ihor-Omelchenko&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
 
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ihor-Omelchenko&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ihor-Omelchenko&show&layout=compact&theme=radical)
 
 <br/>  
 
