@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I am a frontend developer with experience in building SRM systems using **Angular**. I specialize in creating intuitive and functional user interfaces with modern UI kits such as **NG-Zorro** and **PrimeNG**. I am well-versed in **FSD architecture** and have basic backend development skills with **Node.js** paired with **MongoDB**, as well as familiarity with the **MEAN stack**, enabling me to work on full-stack development projects.
+I am a front-end developer with experience in building SRM systems using **Angular**. I specialize in creating intuitive and functional user interfaces with modern UI kits such as **NG-Zorro** and **PrimeNG**. I am well-versed in **FSD architecture** and have basic backend development skills with **Node.js** paired with **MongoDB**, as well as familiarity with the **MEAN stack**, enabling me to work on full-stack development projects.
 
 I have a foundational understanding of architectural patterns and strive to continuously improve my skills. In my free time, I enjoy video games, reading books, taking walks, and, of course, I absolutely adore cats. 😊  
   
